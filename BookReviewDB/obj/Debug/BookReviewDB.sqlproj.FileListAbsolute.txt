@@ -1,0 +1,10 @@
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\bin\Debug\BookReviewDB.dacpac
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\bin\Debug\BookReviewDB.dll
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\bin\Debug\BookReviewDB.pdb
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\BookReviewDB.sqlprojAssemblyReference.cache
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\Model.xml
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\refactor.xml
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\postdeploy.sql
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\predeploy.sql
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\BookReviewDB.dll
+R:\IntelloreRepo\IntelloreTest\BookReviewDB\obj\Debug\BookReviewDB.pdb
